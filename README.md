@@ -1,5 +1,10 @@
 # Resources
 
+## Personal Favorites
+ - [Fireship youtube channel](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+ - [The Cherno youtube channel](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
+ - [Computerphile youtube channel](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+ - [Randall youtube channel](https://www.youtube.com/channel/UCUmLRMERmJrmUtgnbFfknAg)
 
 ## 1. Game Development
 **Assets**
@@ -26,6 +31,11 @@
 **Assets**
  - [Color Hunt](https://colorhunt.co/)
  - [Free Icons/UI kits](https://freebiesbug.com/psd-freebies/icons/)
+
+**Learning**
+ - [W3Schools](https://www.w3schools.com/)
+ - [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn)
+
  
 
   
