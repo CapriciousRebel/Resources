@@ -11,6 +11,10 @@
  - [Geeks for Geeks](https://www.geeksforgeeks.org/)
  - [Stack Overflow](https://stackoverflow.com/)
 
+**Text Editor/IDE**
+ - [VS Code](https://code.visualstudio.com/)
+ - [Visual Studio](https://visualstudio.microsoft.com/)
+
 ---
 ## 1. Game Development
 **Assets**
