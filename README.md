@@ -21,7 +21,7 @@
  - [CodeLikeMe youtube channel](https://www.youtube.com/channel/UClb6Jh9EBV7a_Nm52Ipll_Q)
  - [Unreal Engine official youtube channel](youtube.com/user/UnrealDevelopmentKit/featured)
 
-**Personal Recommendations**
+**Game Engines**
  - [Unreal Engine 4](https://www.unrealengine.com/en-US/)
  - [Unity Engine](https://unity.com/)
  - [Rootex Engine](https://github.com/sdslabs/Rootex)
@@ -37,5 +37,7 @@
  - [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn)
 
  
+---
+## 3. Competitive Programming
 
   
