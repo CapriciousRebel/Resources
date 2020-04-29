@@ -11,6 +11,7 @@
  - [Geeks for Geeks](https://www.geeksforgeeks.org/)
  - [Stack Overflow](https://stackoverflow.com/)
 
+---
 ## 1. Game Development
 **Assets**
  - [Kenney Assets](https://www.kenney.nl/assets)
@@ -54,4 +55,4 @@
  - [Codeforces](https://codeforces.com/)
  - [CodeChef](https://www.codechef.com/)
  
-
+---
