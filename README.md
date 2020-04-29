@@ -2,7 +2,7 @@
 
 
 ## Game Development
-  ---
+
   **Assets**
   
     - [Kenney Assets](https://www.kenney.nl/assets)
