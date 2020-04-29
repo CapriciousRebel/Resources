@@ -7,6 +7,7 @@
  - [itch.io](https://itch.io/game-assets)
  - [Craftpix](https://craftpix.net)
  - [Game Art 2D](https://www.gameart2d.com/freebies.html)
+ - [Mixamo characters and animations] (https://www.mixamo.com/#/)
 
 **Learning**
  - [r/gamedev](https://www.reddit.com/r/gamedev/)
@@ -20,6 +21,11 @@
  - [Unity Engine](https://unity.com/)
  - [Rootex Engine](https://github.com/sdslabs/Rootex)
 
-## 2. 
-  
+---
+## 2. Web Development
+**Assets**
+ - [Color Hunt](https://colorhunt.co/)
+ - [Free Icons/UI kits](https://freebiesbug.com/psd-freebies/icons/)
+ 
+
   
