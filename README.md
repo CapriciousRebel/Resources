@@ -12,7 +12,7 @@
  - [itch.io](https://itch.io/game-assets)
  - [Craftpix](https://craftpix.net)
  - [Game Art 2D](https://www.gameart2d.com/freebies.html)
- - [Mixamo characters and animations] (https://www.mixamo.com/#/)
+ - [Mixamo characters and animations](https://www.mixamo.com/#/)
 
 **Learning**
  - [r/gamedev](https://www.reddit.com/r/gamedev/)
