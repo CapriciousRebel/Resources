@@ -1,7 +1,7 @@
 # Resources
 
 
-## Game Development
+## 1. Game Development
 **Assets**
  - [Kenney Assets](https://www.kenney.nl/assets)
  - [itch.io](https://itch.io/game-assets)
