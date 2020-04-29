@@ -1,6 +1,2 @@
-#### 
+# Resources
 
-
-
-
-#### Assignments
