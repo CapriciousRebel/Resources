@@ -2,7 +2,9 @@
 
 
 - Game Development
+  ---
   1. Assets
+  
     - [Kenney Assets](https://www.kenney.nl/assets)
     - [itch.io](https://itch.io/game-assets)
     - [Craftpix](https://craftpix.net)
