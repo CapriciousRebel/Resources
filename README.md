@@ -15,6 +15,10 @@
  - [VS Code](https://code.visualstudio.com/)
  - [Visual Studio](https://visualstudio.microsoft.com/)
 
+**Chat Platforms**
+ - [Discord](https://discordapp.com/)
+ - [Slack](https://slack.com/intl/en-in/)
+
 ---
 ## 1. Game Development
 **Assets**
