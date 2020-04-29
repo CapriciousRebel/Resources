@@ -3,7 +3,7 @@
 
 - Game Development
   ---
-  1. Assets
+  **Assets**
   
     - [Kenney Assets](https://www.kenney.nl/assets)
     - [itch.io](https://itch.io/game-assets)
