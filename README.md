@@ -1,10 +1,15 @@
 # Resources
 
-## Personal Favorites
+## Personal Favorites 
+**Youtube Channels**
  - [Fireship youtube channel](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
  - [The Cherno youtube channel](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
  - [Computerphile youtube channel](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
  - [Randall youtube channel](https://www.youtube.com/channel/UCUmLRMERmJrmUtgnbFfknAg)
+
+**QnA Websites**
+ - [Geeks for Geeks](https://www.geeksforgeeks.org/)
+ - [Stack Overflow](https://stackoverflow.com/)
 
 ## 1. Game Development
 **Assets**
@@ -41,5 +46,12 @@
 
 ---
 ## 3. Competitive Programming
+**Learning**
+ - [CP Algorithms](https://cp-algorithms.com/)
+ - [CS 97SI](http://web.stanford.edu/class/cs97si/)
 
-  
+**Implementation**
+ - [Codeforces](https://codeforces.com/)
+ - [CodeChef](https://www.codechef.com/)
+ 
+
