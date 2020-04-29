@@ -1,7 +1,7 @@
 # Resources
 
 
-- Game Development
+## Game Development
   ---
   **Assets**
   
