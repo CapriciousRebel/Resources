@@ -14,5 +14,12 @@
  - [Evil do us harm youtube channel](https://www.youtube.com/user/EvilDoUsHarm/featured)
  - [CodeLikeMe youtube channel](https://www.youtube.com/channel/UClb6Jh9EBV7a_Nm52Ipll_Q)
  - [Unreal Engine official youtube channel](youtube.com/user/UnrealDevelopmentKit/featured)
+
+**Personal Recommendations**
+ - [Unreal Engine 4](https://www.unrealengine.com/en-US/)
+ - [Unity Engine](https://unity.com/)
+ - [Rootex Engine](https://github.com/sdslabs/Rootex)
+
+## 2. 
   
   
