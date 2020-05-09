@@ -49,6 +49,7 @@
 **Learning**
  - [W3Schools](https://www.w3schools.com/)
  - [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn)
+ - [Django Tutorial](https://www.djangoproject.com/start/)
 
 **Implementation**
  - [GitHub Pages](https://pages.github.com/)
