@@ -1,12 +1,13 @@
 # Resources
 
 ## Personal Favorites 
-**Youtube Channels**
+**Youtube Channels that inspire to code**
  - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
  - [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
  - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
  - [Randall](https://www.youtube.com/channel/UCUmLRMERmJrmUtgnbFfknAg)
  - [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A)
+ - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 **QnA Websites**
  - [Geeks for Geeks](https://www.geeksforgeeks.org/)
