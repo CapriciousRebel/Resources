@@ -52,6 +52,7 @@
  - [W3Schools](https://www.w3schools.com/)
  - [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn)
  - [Django Tutorial](https://www.djangoproject.com/start/)
+ - [Install webserver on mac](https://medium.com/better-programming/how-to-install-a-php-7-2-on-macos-10-15-catalina-using-homebrew-and-pecl-ad5b6c9ffb17)
 
 **Implementation**
  - [GitHub Pages](https://pages.github.com/)
