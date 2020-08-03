@@ -1,7 +1,7 @@
 # Resources
 
 ## Personal Favorites 
-**Youtube Channels that inspire to code**
+**Youtube Channels that inspire**
  - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
  - [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
  - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
@@ -20,6 +20,9 @@
 **Chat Platforms**
  - [Discord](https://discordapp.com/)
  - [Slack](https://slack.com/intl/en-in/)
+ 
+**Random awesome websites**
+ - [Programming guides](https://roadmap.sh/guides)
 
 ---
 ## 1. Game Development
@@ -68,9 +71,17 @@
  - [CodeChef](https://www.codechef.com/)
  
 ---
+## 4.Interview
+**Practice**
+ - [InterviewBit](https://www.interviewbit.com/practice/)
+ - [LeetFree](https://leetfree.com/)
+ - [LeetFree](https://leetcode.com/#)
 
-## 4. Security
+---
+## 5. Security
 **Learning**
  - [WebSec.fr](http://websec.fr/)
  - [Root Me](https://www.root-me.org/)
 
+---
+Disclaimer: I take no responsibility of any of the links provided above, click them at your own risk.
