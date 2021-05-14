@@ -1,6 +1,10 @@
 # Resources
 
 ## Personal Favorites 
+
+**Github Repos**
+
+- [Assignment Copier](https://github.com/sin3point14/assignment-copier)
 **Youtube Channels that inspire**
  - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
  - [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
